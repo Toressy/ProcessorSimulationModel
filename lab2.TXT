@@ -1,0 +1,4 @@
+mov R1,-78
+mov R2,298
+move R1,left
+move R2,right
